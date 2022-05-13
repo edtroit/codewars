@@ -23,5 +23,4 @@ function abbrevName(name){
     return `${firstInitial}.${secondInitial}`
 }
 
-abbrevName('eduardo coronado')
-
+abbrevName('ed cornhole')
