@@ -30,5 +30,3 @@ function getCount(str) {
     const vowelCount = strArr.filter(char => vowels.indexOf(char) !== -1).length
     return vowelCount
   }
-
-s
