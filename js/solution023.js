@@ -12,7 +12,7 @@
 //Examples:
     //"Let's travel abroad shall we" 2 is the shortest length of the word we
 //Pseudo Code
-    // take in a string convert and split it into an array by spaces
+    // take in a string convert and split it into an array by spaces with the split method
     // use the map method to create a new array of lengths
     // use the math.min() on the new array to find the smallest value
 

@@ -1,3 +1,5 @@
+//https://www.codewars.com/kata/5b901127d0093853470001e7/
+// 6kyu Most consecutive 0's in a row [Code-golf]6
 let m = 10002030000
 
 // let nStr = n.toString()
